@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on invs-siat.
 - 🌱 I’m currently learning AI and Robot.
-- 👯 Here are my personal website which shows more information about me:donehans.github.io
+- 👯 Here are my personal website which shows more information about me:[personal web](donehans.github.io)
 
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DoneHans&show_icons=true&theme=tokyonight" /> </div>
