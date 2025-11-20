@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on invs-siat.
+- 🔭 I’m currently a master at invs-siat.
 - 🌱 I’m currently learning AI and Robot.
 - 👯 Here are my personal website which shows more information about me:[donehans.github.io](https://donehans.github.io/)
 
